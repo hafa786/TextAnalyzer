@@ -1,0 +1,19 @@
+{
+  "name": "text-analyzer",
+  "version": "1.0.0",
+  "description": "A simple implementation of REST Api endpoint to analyze text using Expressjs.",
+  "main": "api/endpoints.js",
+  "scripts": {
+    "test": "node api/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafa786/TextAnalyzer.git"
+  },
+  "author": "Hafiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hafa786/TextAnalyzer/issues"
+  },
+  "homepage": "https://github.com/hafa786/TextAnalyzer#readme"
+}
