@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hafa786/TextAnalyzer/issues"
   },
-  "homepage": "https://github.com/hafa786/TextAnalyzer#readme"
+  "homepage": "https://github.com/hafa786/TextAnalyzer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
