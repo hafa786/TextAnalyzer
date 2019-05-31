@@ -8,6 +8,14 @@ node api/test.js
 
 ```
 
+### Run API 
+
+To run the api local server,  write the following command in terminal
+```
+node api/endpoints.js
+
+```
+
 ### Deployment 
 
 This REST api is deployed on Heroku. To check api, you can use any api checker tool for Example Postman
